@@ -1,7 +1,7 @@
 # 👋 Hello there 🤓
 ## I have a smart kid 👦, beautiful wife 👩 and two cats  🐈  🐈‍⬛
 ### 🛠️  Love to develop something and create things  🪚 
-### 🏕️  I like active recreation in woods and sea coast  🌊
+### 🏕️  I like active recreation in the woods and the sea coast  🌊
 <!--
 **kzaytsev/kzaytsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
